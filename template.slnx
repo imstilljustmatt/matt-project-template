@@ -7,13 +7,8 @@
 		<File Path="Directory.Build.props" />
 		<File Path="Directory.Packages.props" />
 	</Folder>
-	<Folder Name="/Libs/">
-		<Project Path="lib/matt-core/src/Matt.Core/project/Matt.Core.csproj" />
-	</Folder>
 	<Folder Name="/Main/">
-		<Project Path="src/Positron/Positron.csproj" />
-		<Project Path="src/Positron.Shared/Positron.Shared.csproj" />
-		<Project Path="src/Positron.UI/Positron.UI.csproj" />
-		<Project Path="src/Positron.Core/Positron.Core.csproj" />
+		<Project Path="src/MyExecutable/MyExecutable.csproj" />
+		<Project Path="src/MyLibrary/MyLibrary.csproj" />
 	</Folder>
 </Solution>
