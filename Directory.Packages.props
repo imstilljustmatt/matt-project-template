@@ -1,0 +1,13 @@
+<Project>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageVersion Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageVersion Include="ValveKeyValue" Version="0.13.1.398" />
+        <PackageVersion Include="CefSharp.Common.NETCore" Version="138.0.170" />
+        <PackageVersion Include="CefSharp.Wpf.NETCore" Version="138.0.170" />
+        <PackageVersion Include="CefSharp.WinForms.NETCore" Version="138.0.170" />
+        <PackageVersion Include="CefSharp.Offscreen.NETCore" Version="138.0.170" />
+    </ItemGroup>
+</Project>

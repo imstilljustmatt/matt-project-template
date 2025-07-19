@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<RootNamespace>MyExecutable</RootNamespace>
+	</PropertyGroup>
+	
+	<!-- NuGet package and project references -->
+	<ItemGroup>
+		<!-- NuGet packages -->
+		
+		<!-- Project references -->
+		<ProjectReference Include="$(SolutionDir)\src\MyLibrary\MyLibrary.csproj" />
+	</ItemGroup>
+	
+</Project>

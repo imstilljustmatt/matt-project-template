@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+	<PropertyGroup>
+		<RootNamespace>MyLibrary</RootNamespace>
+	</PropertyGroup>
+	
+	<!-- NuGet package and project references -->
+	<ItemGroup>
+		<!-- NuGet packages -->
+		
+		<!-- Project references -->
+	</ItemGroup>
+	
+</Project>
